@@ -1,0 +1,251 @@
+{
+    "staffs": [
+        {
+            "name": "谷本 心 (Shin Tanimoto)",
+            "image": "img/cero_t.jpg",
+            "link": "https://twitter.com/cero_t",
+            "role": "リーダー (Leader)",
+            "companies": [
+                {
+                    "name": "株式会社Everforth (Everforth Co., Ltd.)",
+                    "link": "https://everforth.co.jp/"
+                },
+                {
+                    "name": "アクロクエストテクノロジー株式会社 (Acroquest Technology Co., Ltd.)",
+                    "link": "https://www.acroquest.co.jp/"
+                }
+            ],
+            "communities": [
+                {
+                    "name": "関西Javaエンジニアの会 (Kansai Java Engineer Group)",
+                    "link": "https://kanjava.connpass.com/"
+                }
+            ]
+        },
+        {
+            "name": "鈴木 雄介 (Yusuke Suzuki)",
+            "image": "img/yusuke_arclamp.jpg",
+            "link": "https://twitter.com/yusuke_arclamp",
+            "role": "サブリーダー (Sub Leader)",
+            "companies": [
+                {
+                    "name": "グロースエクスパートナーズ株式会社 (Growth xPartners Incorporated.)",
+                    "link": "https://www.gxp.co.jp/"
+                }
+            ]
+        },
+        {
+            "name": "石田 真彩 (Maaya Ishida)",
+            "image": "img/maaya8585.jpg",
+            "link": "https://twitter.com/maaya8585",
+            "role": "サブリーダー (Sub Leader)",
+            "companies": [
+                {
+                    "name": "日本マイクロソフト株式会社 (Microsoft Japan Co., Ltd.)",
+                    "link": "https://www.microsoft.com/ja-jp"
+                }
+            ],
+            "communities": [
+                {
+                    "name": "Java女子部 (Java Women Community)",
+                    "link": "https://javajo.doorkeeper.jp/"
+                }
+            ]
+        },
+        {
+            "name": "贄 良則 (Yoshinori Nie)",
+            "image": "img/yoshinorinie.jpg",
+            "link": "https://twitter.com/yoshinorinie",
+            "role": "会計・監査 (Auditor)",
+            "companies": [
+                {
+                    "name": "株式会社ジャスミンソフト (JasmineSoft Co.,Ltd.)",
+                    "link": "https://www.jasminesoft.co.jp/"
+                }
+            ]
+        },
+        {
+            "name": "Asami Abe",
+            "image": "img/aa7th.jpg",
+            "link": "https://twitter.com/aa7th"
+        },
+        {
+            "name": "天野 庄平 (Shouhei Amano)",
+            "image": "img/do_M_gaToru.jpg",
+            "link": "https://twitter.com/do_M_gaToru"
+        },
+        {
+            "name": "岡田 裕文 (Hirofumi Okada)",
+            "image": "img/romy_do.jpg",
+            "link": "https://twitter.com/romy_do"
+        },
+        {
+            "name": "伊藤 敬 (Takashi Ito)",
+            "image": "img/itakash.jpg",
+            "link": "https://twitter.com/itakash",
+            "companies": [
+                {
+                    "name": "日本オラクル株式会社 (Oracle Corporation Japan)",
+                    "link": "http://www.oracle.com/jp/"
+                }
+            ]
+        },
+        {
+            "name": "伊藤 智博 (Chihiro Ito)",
+            "image": "img/chiroito.jpg",
+            "link": "https://twitter.com/chiroito"
+        },
+        {
+            "name": "内立 良介 (Ryosuke Uchitate)",
+            "image": "img/b1a9idps.jpg",
+            "link": "https://twitter.com/b1a9idps",
+            "companies": [
+                {
+                    "name": "コイニー株式会社 (Coiney, Inc.)",
+                    "link": "https://coiney.com/corp/"
+                }
+            ]
+        },
+        {
+            "name": "河村 嘉之 (Kazuyuki Kawamura)",
+            "image": "img/kazkawamura.jpg",
+            "link": "https://twitter.com/kazkawamura",
+            "companies": [
+                {
+                    "name": "株式会社セールスフォース・ドットコム (salesforce.com Co., Ltd.)",
+                    "link": "http://www.salesforce.com/"
+                }
+            ],
+            "communities": [
+                {
+                    "name": "日本Springユーザ会 (Japan Spring User Group)",
+                    "link": "http://www.springframework.jp/"
+                }
+            ]
+        },
+        {
+            "name": "きしだ なおき (Naoki Kishida)",
+            "image": "img/kis.jpeg",
+            "link": "https://twitter.com/kis"
+        },
+        {
+            "name": "久保 智 (Satoshi Kubo)",
+            "image": "img/megascus.jpg",
+            "link": "https://twitter.com/megascus",
+            "companies": [
+                {
+                    "name": "株式会社ビジネスブレイン太田昭和 (Business Brain Showa-Ota Inc.)",
+                    "link": "http://www.bbs.co.jp/"
+                }
+            ]
+        },
+        {
+            "name": "佐藤 達志 (Tatsushi Sato)"
+        },
+        {
+            "name": "柴田 洋平 (Youhei Shibata)",
+            "image": "img/yangping0211.jpg",
+            "link": "https://twitter.com/yangping0211"
+        },
+        {
+            "name": "杉山 貴章 (Takaaki Sugiyama)",
+            "image": "img/zinbe.jpg",
+            "link": "https://twitter.com/zinbe"
+        },
+        {
+            "name": "田中 孝清 (Takakiyo Tanaka)",
+            "image": "img/ttakakiyo.jpg",
+            "link": "https://twitter.com/ttakakiyo",
+            "companies": [
+                {
+                    "name": "日本アイ・ビー・エム株式会社 (IBM Japan, Ltd.)",
+                    "link": "http://www.ibm.com/jp/"
+                }
+            ]
+        },
+        {
+            "name": "谷本 慎 (Shin Tanimoto)",
+            "image": "img/Shin_TNMT.jpg",
+            "link": "https://twitter.com/Shin_TNMT"
+        },
+        {
+            "name": "寺田 佳央 (Yoshio Terada)",
+            "image": "img/yoshioterada.jpg",
+            "link": "https://twitter.com/yoshioterada"
+        },
+        {
+            "name": "長澤 太郎 (Taro Nagasawa)",
+            "image": "img/ngsw_taro.jpg",
+            "link": "https://twitter.com/ngsw_taro",
+            "communities": [
+                {
+                    "name": "日本Kotlinユーザグループ (Japan Kotlin User Group)",
+                    "link": "https://kotlin.doorkeeper.jp/"
+                }
+            ]
+        },
+        {
+            "name": "西川 彰広 (Akihiro Nishikawa)",
+            "image": "img/Logico_jp.png",
+            "link": "https://twitter.com/Logico_jp"
+        },
+        {
+            "name": "野上 忍 (Shinobu Nogami)",
+            "image": "img/snogami.jpg",
+            "link": "https://twitter.com/snogami",
+            "communities": [
+                {
+                    "name": "日本JBoss ユーザ・グループ (Japan JBoss User Group)",
+                    "link": "https://community.jboss.org/groups/japan-JBUG/"
+                }
+            ]
+        },
+        {
+            "name": "橋本 吉治 (Yoshiharu Hashimoto)",
+            "image": "img/hasssie.jpg",
+            "link": "https://twitter.com/hasssie",
+            "companies": [
+                {
+                    "name": "株式会社SyncThought (SyncThought Co., Ltd.)",
+                    "link": "http://www.syncthought.com/"
+                }
+            ],
+            "communities": [
+                {
+                    "name": "日本JRuby ユーザ会 (Japan JRuby User Group)",
+                    "link": "https://groups.google.com/forum/#!forum/jruby-users-jp"
+                }
+            ]
+        },
+        {
+            "name": "槙 俊明 (Toshiaki Maki)",
+            "image": "img/making.jpg",
+            "link": "https://twitter.com/making"
+        },
+        {
+            "name": "牧野 隆志 (Takashi Makino)",
+            "image": "img/makinog3.jpg",
+            "link": "https://twitter.com/makinog3",
+            "companies": [
+                {
+                    "name": "株式会社アットウェア (atWare, Inc.)",
+                    "link": "http://www.atware.co.jp/"
+                }
+            ]
+        },
+        {
+            "name": "宮川 拓 (Taku Miyakawa)",
+            "image": "img/miyakawa_taku.jpeg",
+            "link": "https://twitter.com/miyakawa_taku"
+        },
+        {
+            "name": "山本 裕介 (Yusuke Yamamoto)",
+            "image": "img/yusuke.jpg",
+            "link": "https://twitter.com/yusuke"
+        },
+        {
+            "name": "吉田 真也 (Shinya Yoshida)",
+            "image": "img/bitter-fox.gif"
+        }
+    ]
+}

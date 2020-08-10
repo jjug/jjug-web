@@ -1,0 +1,74 @@
+baseURL = "/"
+languageCode = "ja-jp"
+DefaultContentLanguage = "en"
+#DefaultContentLanguage = "ja"
+title = "日本Javaユーザーグループ"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+
+[Params]
+  subtitle = "JJUG (Japan Java User Group)"
+  mainSections = ["post"]
+  logo = "img/kimono-duke.png"
+  favicon = "img/favicon.ico"
+  dateFormat = "2006/01/02"
+  socialShare = true
+  wordCount = false
+  useHLJS = true
+
+[Author]
+  name = "Japan Java User Group"
+  twitter = "JJUG"
+  slack = "jjug-members"
+  doorkeeper = "jjug"
+
+[[menu.main]]
+  name = "Home"
+  url = ""
+  weight = 1
+
+[[menu.main]]
+  identifier = "about"
+  name = "JJUGについて"
+  weight = 2
+
+[[menu.main]]
+  parent = "about"
+  name = "JJUGについて"
+  url = "page/about"
+  weight = 1
+
+[[menu.main]]
+  parent = "about"
+  name = "設立趣意書"
+  url = "page/prospectus/"
+  weight = 2
+
+[[menu.main]]
+  parent = "about"
+  name = "会則"
+  url = "page/rule/"
+  weight = 3
+
+[[menu.main]]
+  parent = "about"
+  name = "入会案内"
+  url = "page/membership/"
+  weight = 4
+
+[[menu.main]]
+  parent = "about"
+  name = "幹事会メンバー"
+  url = "staff/"
+  weight = 5
+
+[[menu.main]]
+  parent = "about"
+  name = "スピーカー派遣について"
+  url = "page/speaker-dispatch/"
+  weight = 6
+
+[[menu.main]]
+  name = "Tags"
+  url = "tags"
+  weight = 3
