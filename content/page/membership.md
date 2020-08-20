@@ -10,7 +10,7 @@ title: "入会案内"
 ### 1. 個人の皆様へ
 
 ●登録方法
-最初に [会則](/page/rule) をお読みください。会則に同意されたら [DoorkeeperのJJUGページ](https://jjug.doorkeeper.jp/) から「コミュニティへ参加」を押して登録を行ってください。
+最初に [会則](/page/rule/) をお読みください。会則に同意されたら [DoorkeeperのJJUGページ](https://jjug.doorkeeper.jp/) から「コミュニティへ参加」を押して登録を行ってください。
 
 ### 2. 組織・団体の皆様へ
 
