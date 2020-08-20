@@ -35,7 +35,7 @@ metaDataFormat = "yaml"
 [[menu.main]]
   parent = "about"
   name = "JJUGについて"
-  url = "page/about"
+  url = "page/about/"
   weight = 1
 
 [[menu.main]]
