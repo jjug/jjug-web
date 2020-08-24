@@ -19,6 +19,7 @@ metaDataFormat = "yaml"
 [Author]
   name = "Japan Java User Group"
   twitter = "JJUG"
+  facebook = "japanjug"
   slack = "jjug-members"
   doorkeeper = "jjug"
 
