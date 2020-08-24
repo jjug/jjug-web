@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://www.java-users.jp/"
 languageCode = "ja-jp"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
