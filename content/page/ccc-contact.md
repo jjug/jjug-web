@@ -9,5 +9,5 @@ JJUGのこと、JJUG CCCのこと、CoCに関することなど何でも結構�
 [こちら](https://jjug.doorkeeper.jp/contact/new) よりご連絡ください。
 
 ### 匿名でのご報告
-[CoC]() に関して、匿名でのご報告を希望される場合は  
+[CoC](https://ccc2020fall.java-users.jp) に関して、匿名でのご報告を希望される場合は  
 [こちら](https://docs.google.com/forms/d/e/1FAIpQLSceWm0xbNJe4ddKXr5UO90Gz5pOnrmQ1t8ilFa2vTIcySC8Rg/viewform?usp=sf_link) よりご連絡ください。
