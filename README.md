@@ -14,6 +14,12 @@ JJUG公式サイト (www.java-users.jp) のソースコードを管理するリ�
 
 ## サイトの更新
 
+### プルリクのプレビューURL
+
+- https://pr-{{プルリク番号}}.db3lv80p4h10y.amplifyapp.com/
+    - 例: https://pr-9.db3lv80p4h10y.amplifyapp.com/
+    - (サブドメインが変わったらごめんなさい)
+
 ### ニュースの追加
 
 - content/post/ にMarkdownファイルを追加する
