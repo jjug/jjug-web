@@ -244,6 +244,23 @@
             "link": "https://twitter.com/yusuke"
         },
         {
+            "name": "横田 紋奈 (Ayana Yokota)",
+            "image": "img/ihcomega.jpg",
+            "link": "https://twitter.com/ihcomega",
+            "companies": [
+                {
+                    "name": "JFrog",
+                    "link": "https://jfrog.com/ja/"
+                }
+            ],
+            "communities": [
+                {
+                    "name": "Java女子部 (Java Women Community)",
+                    "link": "https://javajo.doorkeeper.jp/"
+                }
+            ]
+        },
+        {
             "name": "吉田 真也 (Shinya Yoshida)",
             "image": "img/bitter-fox.gif"
         }
