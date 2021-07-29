@@ -1,7 +1,7 @@
 ---
 title: "JJUG CCC 2021 Fall のCfP募集を開始しました！"
 # subtitle:
-date: 2021-07-29T19:00:00+09:00
+date: 2021-07-29T20:15:00+09:00
 tags: ["CCC"]
 ---
 2021 年 11 月 21 日 (日) にオンラインで開催する JJUG CCC 2021 Fall の CfP (Call for Paper) を募集いたします！
