@@ -152,6 +152,17 @@
             "image": "img/zinbe.jpg",
             "link": "https://twitter.com/zinbe"
         },
+	{
+            "name": "髙橋　良貴 (Yoshitaka Takahashi)",
+            "image": "img/evgeniy.jpg",
+            "link": "https://twitter.com/kinkedoudid",
+            "communities": [
+                {
+                    "name": "U35 Java User Group(若JUG)",
+                    "link": "https://u35jug.connpass.com/"
+                }
+            ]
+        },
         {
             "name": "田中 孝清 (Takakiyo Tanaka)",
             "image": "img/ttakakiyo.jpg",
