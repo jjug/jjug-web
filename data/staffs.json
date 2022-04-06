@@ -26,11 +26,15 @@
             "name": "鈴木 雄介 (Yusuke Suzuki)",
             "image": "img/yusuke_arclamp.jpg",
             "link": "https://twitter.com/yusuke_arclamp",
-            "role": "サブリーダー (Sub Leader)",
+            "role": "サブリーダー (Sub Leader)/CCC運営委員長",
             "companies": [
                 {
-                    "name": "グロースエクスパートナーズ株式会社 (Growth xPartners Incorporated.)",
-                    "link": "https://www.gxp.co.jp/"
+                    "name": "Graat/グロース・アーキテクチャ＆チームス株式会社 (Growth Architectures & Teams, Inc.)",
+                    "link": "https://www.graat.co.jp/"
+                },
+                {
+                    "name": "株式会社アイムデジタルラボ (IM Digital Lab Co., Ltd.)",
+                    "link": "https://www.imd-lab.co.jp/"
                 }
             ]
         },
