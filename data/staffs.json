@@ -93,7 +93,13 @@
         {
             "name": "伊藤 智博 (Chihiro Ito)",
             "image": "img/chiroito.jpg",
-            "link": "https://twitter.com/chiroito"
+            "link": "https://twitter.com/chiroito",
+            "companies": [
+                {
+                    "name": "Red Hat",
+                    "link": "https://www.redhat.com/"
+                }
+            ]
         },
         {
             "name": "内立 良介 (Ryosuke Uchitate)",
@@ -129,13 +135,13 @@
             "link": "https://twitter.com/kis"
         },
         {
-            "name": "久保 智 (Satoshi Kubo)",
+            "name": "瀬戸 智 (Satoshi Seto)",
             "image": "img/megascus.jpg",
             "link": "https://twitter.com/megascus",
             "companies": [
                 {
-                    "name": "株式会社ビジネスブレイン太田昭和 (Business Brain Showa-Ota Inc.)",
-                    "link": "http://www.bbs.co.jp/"
+                    "name": "Red Hat",
+                    "link": "https://www.redhat.com/"
                 }
             ]
         },
