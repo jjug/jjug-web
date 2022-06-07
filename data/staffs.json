@@ -89,8 +89,8 @@
             "link": "https://twitter.com/itakash",
             "companies": [
                 {
-                    "name": "日本オラクル株式会社 (Oracle Corporation Japan)",
-                    "link": "http://www.oracle.com/jp/"
+                    "name": "Oracle Corporation",
+                    "link": "http://www.oracle.com/"
                 }
             ]
         },
@@ -117,23 +117,6 @@
             ]
         },
         {
-            "name": "河村 嘉之 (Kazuyuki Kawamura)",
-            "image": "img/kazkawamura.jpg",
-            "link": "https://twitter.com/kazkawamura",
-            "companies": [
-                {
-                    "name": "株式会社セールスフォース・ドットコム (salesforce.com Co., Ltd.)",
-                    "link": "http://www.salesforce.com/"
-                }
-            ],
-            "communities": [
-                {
-                    "name": "日本Springユーザ会 (Japan Spring User Group)",
-                    "link": "http://www.springframework.jp/"
-                }
-            ]
-        },
-        {
             "name": "きしだ なおき (Naoki Kishida)",
             "image": "img/kis.jpeg",
             "link": "https://twitter.com/kis"
@@ -150,9 +133,6 @@
             ]
         },
         {
-            "name": "佐藤 達志 (Tatsushi Sato)"
-        },
-        {
             "name": "柴田 洋平 (Youhei Shibata)",
             "image": "img/yangping0211.jpg",
             "link": "https://twitter.com/yangping0211"
@@ -162,7 +142,7 @@
             "image": "img/zinbe.jpg",
             "link": "https://twitter.com/zinbe"
         },
-	{
+        {
             "name": "髙橋　良貴 (Yoshitaka Takahashi)",
             "image": "img/evgeniy.jpg",
             "link": "https://twitter.com/kinkedoudid",
@@ -174,69 +154,14 @@
             ]
         },
         {
-            "name": "田中 孝清 (Takakiyo Tanaka)",
-            "image": "img/ttakakiyo.jpg",
-            "link": "https://twitter.com/ttakakiyo",
-            "companies": [
-                {
-                    "name": "日本アイ・ビー・エム株式会社 (IBM Japan, Ltd.)",
-                    "link": "http://www.ibm.com/jp/"
-                }
-            ]
-        },
-        {
-            "name": "谷本 慎 (Shin Tanimoto)",
-            "image": "img/Shin_TNMT.jpg",
-            "link": "https://twitter.com/Shin_TNMT"
-        },
-        {
             "name": "寺田 佳央 (Yoshio Terada)",
             "image": "img/yoshioterada.jpg",
             "link": "https://twitter.com/yoshioterada"
         },
         {
-            "name": "長澤 太郎 (Taro Nagasawa)",
-            "image": "img/ngsw_taro.jpg",
-            "link": "https://twitter.com/ngsw_taro",
-            "communities": [
-                {
-                    "name": "日本Kotlinユーザグループ (Japan Kotlin User Group)",
-                    "link": "https://kotlin.doorkeeper.jp/"
-                }
-            ]
-        },
-        {
             "name": "西川 彰広 (Akihiro Nishikawa)",
             "image": "img/Logico_jp.png",
             "link": "https://twitter.com/Logico_jp"
-        },
-        {
-            "name": "野上 忍 (Shinobu Nogami)",
-            "image": "img/snogami.jpg",
-            "link": "https://twitter.com/snogami",
-            "communities": [
-                {
-                    "name": "日本JBoss ユーザ・グループ (Japan JBoss User Group)",
-                    "link": "https://community.jboss.org/groups/japan-JBUG/"
-                }
-            ]
-        },
-        {
-            "name": "橋本 吉治 (Yoshiharu Hashimoto)",
-            "image": "img/hasssie.jpg",
-            "link": "https://twitter.com/hasssie",
-            "companies": [
-                {
-                    "name": "株式会社SyncThought (SyncThought Co., Ltd.)",
-                    "link": "http://www.syncthought.com/"
-                }
-            ],
-            "communities": [
-                {
-                    "name": "日本JRuby ユーザ会 (Japan JRuby User Group)",
-                    "link": "https://groups.google.com/forum/#!forum/jruby-users-jp"
-                }
-            ]
         },
         {
             "name": "船橋 昭博 (Akihiro Funabashi)",
@@ -258,11 +183,6 @@
                     "link": "http://www.atware.co.jp/"
                 }
             ]
-        },
-        {
-            "name": "宮川 拓 (Taku Miyakawa)",
-            "image": "img/miyakawa_taku.jpeg",
-            "link": "https://twitter.com/miyakawa_taku"
         },
         {
             "name": "山中 裕文 (Hirofumi Yamanaka)",
