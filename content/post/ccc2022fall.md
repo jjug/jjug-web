@@ -1,7 +1,7 @@
 ---
 title: "JJUG CCC 2022 Fall 11/27(日)開催"
 # subtitle:
-date: 2022-10-03T22:00:01+09:00
+date: 2022-10-03T21:51:58+09:00
 tags: ["CCC"]
 ---
 
