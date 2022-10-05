@@ -18,4 +18,4 @@ peatixへのリンクはDoorKeeperから張られています。
 
 お申し込みは下記Doorkeeperのページよりお願いします。
 オンサイト参加希望者もまずはDoorKeeperへの申し込みをお願いします！
-https://jjug.doorkeeper.jp/events/126944
+https://jjug.doorkeeper.jp/events/143914
