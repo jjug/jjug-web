@@ -2,7 +2,7 @@
 title: "JavaOne & Devoxx報告会 2022 11/11(金) 開催"
 # subtitle:
 
-date: 2022-11-14T00:00:00+09:00
+date: 2022-11-04T00:00:00+09:00
 
 tags: ["JavaOne報告会"]
 ---
