@@ -70,6 +70,29 @@ metaDataFormat = "yaml"
   weight = 6
 
 [[menu.main]]
+  identifier = "CCC"
+  name = "JJUG CCC"
+  weight = 3
+
+[[menu.main]]
+  parent = "CCC"
+  name = "スピーカーガイドライン"
+  url = "page/ccc-speakerguideline/"
+  weight = 1
+
+[[menu.main]]
+  parent = "CCC"
+  name = "行動規範（CoC）"
+  url = "page/ccc-coc/"
+  weight = 2
+
+[[menu.main]]
+  parent = "CCC"
+  name = "CCC お問い合わせ"
+  url = "page/ccc-contact/"
+  weight = 3
+
+[[menu.main]]
   name = "Tags"
   url = "tags/"
-  weight = 3
+  weight = 4
