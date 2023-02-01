@@ -154,6 +154,10 @@
             ]
         },
         {
+            "name": "多田 真敏 (Masatoshi Tada)",
+            "image": "img/tada.jpg"
+        },
+        {
             "name": "寺田 佳央 (Yoshio Terada)",
             "image": "img/yoshioterada.jpg",
             "link": "https://twitter.com/yoshioterada"
@@ -214,10 +218,6 @@
         {
             "name": "吉田 真也 (Shinya Yoshida)",
             "image": "img/bitter-fox.gif"
-        },
-        {
-            "name": "多田 真敏 (Masatoshi Tada)",
-            "image": "img/tada.jpg"
         }
     ]
 }
