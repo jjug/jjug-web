@@ -2,7 +2,7 @@
 title: "JJUG CCCでの行動規範 / JJUG CCC Code of Conduct"
 ---
 
-JJUG CCCオンラインに参加するにあたり，すべての参加者は以下の行動規範に同意していただく必要があります。
+JJUG CCCに参加するにあたり，すべての参加者は以下の行動規範に同意していただく必要があります。
 JJUG幹事会は，JJUG CCCにおいて，この規範を実施します。
 
 * 参加者は，ハラスメントを止めるように求められた場合，すみやかに従ってください。
@@ -24,7 +24,7 @@ JJUG幹事会は，ハラスメントにあった方が，イベント中に安�
 
 JJUG幹事会は，誰もが安心してJJUG CCCに参加できることを大切にしています。
 
-All attendees, speakers, sponsors, and volunteers at JJUG CCC online are required to agree with the following code of conduct.
+All attendees, speakers, sponsors, and volunteers at JJUG CCC are required to agree with the following code of conduct.
 Japan Java User Group (JJUG) will enforce this code throughout the event.
 * Participants asked to stop any harassing behavior are expected to comply immediately.
 * Harassment includes offensive verbal comments related to gender, race, physical appearance, stalking, or any behaviors of an offensive nature.
