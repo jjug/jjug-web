@@ -6,7 +6,10 @@ title: "JJUG CCCスピーカーガイドライン / JJUG CCC Speaker Guideline"
 
 # ビデオの提出について
 
-JJUG CCC 2022 Springでは、すべてのセッションがビデオストリーミング＋ライブ出演の組み合わせになっています。そのため、定められた期限までに最大40分ないし15分のビデオを提出していただきます。
+ビデオストリーミングでの登壇を希望される場合は、事前にビデオを提出していただきます。
+提出していただいたビデオがスピーカーガイドラインに準拠しているかを事前に確認する必要があるため、
+定められた期限までに必ず提出をお願いいたします。
+
 提出するビデオのフォーマットは以下の通りでお願いします。
 
 - 画角：16:9
@@ -45,8 +48,10 @@ JJUG CCC 2022 Springでは、すべてのセッションがビデオストリー
 
 # Session video submission
 
-Every session in JJUG CCC 2022 Fall consists of a video streaming part and a live streaming part.
-The video streaming part is either 40 min or 15 min at the maximum depend on your session kind.
+If you choose a video session, submit your video in advance.
+We check beforehand whether it complies with the speaker guidelines.
+Please be sure to submit it by the specified deadline.
+
 You have to submit the session video for the part up to 40 min or 15 min by the deadline with the following format:
 - Aspect ratio: 16:9
 - File format: .mp4 or .mov
