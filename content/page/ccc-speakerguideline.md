@@ -22,8 +22,7 @@ title: "JJUG CCCスピーカーガイドライン / JJUG CCC Speaker Guideline"
 
 **コンテンツには引用の範囲を超えて他人の著作物を含めないようにお願いします。**
 **フリーでの利用が許可されている他人のコンテンツが含まれている場合は、許諾条件に基づいて使用されていることを応募者が保証する必要があります。**
-**YouTubeにアップロードする都合上、オフライン開催の場合に比べて多くの人が目にする可能性があるためです。**
-**著作権上の問題が発生した場合、発生した費用については応募者が負担するものとします。**
+**著作権上の問題が発生した場合、すべての責任を応募者が負うものとします。**
 
 # 宣伝の禁止
 公募セッション（CfPへの応募によるセッション）では、自身の所属する会社の製品やサービスの宣伝は行わないようにしてください。
@@ -57,12 +56,13 @@ Please be sure to submit it by the specified deadline.
 Video format:
 - Aspect ratio: 16:9
 - File format: .mp4 or .mov
+- Resolution: 1920x1080p
+- Frame rate: 30fps
 - File size: Up to 1GB  (Please reduce the file size by compression or converting to a lower resolution as possible and necessary if the file is larger than 1GB)
 
-**Please do not include other people's work in your content beyond the scope of the quotation.**
-**If you include content from others that is licensed for free use, you must ensure that you are using it in accordance with the terms of the license.**
-**This is because the content will be uploaded to YouTube and may be seen by a larger number of people than if the event was held offline.**
-**In the event of copyright issues, you shall be responsible for any costs incurred.**
+**Please do not include copyrighted material of others that infringes on your content. **
+**Even in the case of other people's content that is allowed to be used free of charge, the applicant must ensure that it is used in accordance with the terms of the license.**
+**In the incident of any copyright infringement issues, the applicant will take full responsibility.**
 
 # Restriction of advertising in the session
 
