@@ -3,3 +3,6 @@
 .idea
 
 public
+
+*.exe
+*.lock
