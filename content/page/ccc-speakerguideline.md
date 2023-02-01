@@ -97,6 +97,6 @@ Please feel free to contact us when you have any concerns about this.
 
 # Agreement on our Code of Conduct
 
-[All attendances of JJUG CCC 2022 Fall including speakers must agree and obey our Code of Conduct.]({{< ref "/ccc-coc.md" >}} "CoC")
+[All attendances of JJUG CCC including speakers must agree and obey our Code of Conduct.]({{< ref "/ccc-coc.md" >}} "CoC")
 
 Please read our CoC carefully and you must avoid any representations that might violate the CoC or could be any kind of harassment in your session video and the conference.
