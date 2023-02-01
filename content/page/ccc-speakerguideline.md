@@ -46,6 +46,8 @@ title: "JJUG CCCスピーカーガイドライン / JJUG CCC Speaker Guideline"
 
 上記に関連して、セッション中はハラスメントに抵触する可能性のある表現は避けていただくようお願いいたします。
 
+----
+
 # Session video submission
 
 If you choose a video session, submit your video in advance.

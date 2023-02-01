@@ -24,6 +24,8 @@ JJUG幹事会は，ハラスメントにあった方が，イベント中に安�
 
 JJUG幹事会は，誰もが安心してJJUG CCCに参加できることを大切にしています。
 
+----
+
 All attendees, speakers, sponsors, and volunteers at JJUG CCC are required to agree with the following code of conduct.
 Japan Java User Group (JJUG) will enforce this code throughout the event.
 * Participants asked to stop any harassing behavior are expected to comply immediately.
