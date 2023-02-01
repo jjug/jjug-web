@@ -52,7 +52,7 @@ If you choose a video session, submit your video in advance.
 We check beforehand whether it complies with the speaker guidelines.
 Please be sure to submit it by the specified deadline.
 
-You have to submit the session video for the part up to 40 min or 15 min by the deadline with the following format:
+Video format:
 - Aspect ratio: 16:9
 - File format: .mp4 or .mov
 - File size: Up to 1GB  (Please reduce the file size by compression or converting to a lower resolution as possible and necessary if the file is larger than 1GB)
