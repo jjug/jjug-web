@@ -60,7 +60,7 @@ Video format:
 - Frame rate: 30fps
 - File size: Up to 1GB  (Please reduce the file size by compression or converting to a lower resolution as possible and necessary if the file is larger than 1GB)
 
-**Please do not include copyrighted material of others that infringes on your content. **
+**Please do not include copyrighted material of others that infringes on your content.**
 **Even in the case of other people's content that is allowed to be used free of charge, the applicant must ensure that it is used in accordance with the terms of the license.**
 **In the incident of any copyright infringement issues, the applicant will take full responsibility.**
 
