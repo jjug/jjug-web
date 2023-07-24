@@ -4,26 +4,6 @@ title: "JJUG CCCスピーカーガイドライン / JJUG CCC Speaker Guideline"
 
 **#### Followed by the English translation. ####**
 
-# ビデオの提出について
-
-ビデオストリーミングでの登壇を希望される場合は、事前にビデオを提出していただきます。
-提出していただいたビデオがスピーカーガイドラインに準拠しているかを事前に確認する必要があるため、
-定められた期限までに必ず提出をお願いいたします。
-
-提出するビデオのフォーマットは以下の通りでお願いします。
-
-- 画角：16:9
-- フォーマット：mp4またはmov形式
-- 解像度: 1920x1080p
-- フレームレート: 30fps
-
-提出方法は、指定のフォームから動画ファイルをアップロードしてください。
-ファイルサイズは1GB以下に圧縮していただくようお願いいたします。
-
-**コンテンツには引用の範囲を超えて他人の著作物を含めないようにお願いします。**
-**フリーでの利用が許可されている他人のコンテンツが含まれている場合は、許諾条件に基づいて使用されていることを応募者が保証する必要があります。**
-**著作権上の問題が発生した場合、すべての責任を応募者が負うものとします。**
-
 # 宣伝の禁止
 公募セッション（CfPへの応募によるセッション）では、自身の所属する会社の製品やサービスの宣伝は行わないようにしてください。
 公募セッションでできること・できないことの例を以下に挙げます。
@@ -46,23 +26,6 @@ title: "JJUG CCCスピーカーガイドライン / JJUG CCC Speaker Guideline"
 上記に関連して、セッション中はハラスメントに抵触する可能性のある表現は避けていただくようお願いいたします。
 
 ----
-
-# Session video submission
-
-If you choose a video session, submit your video in advance.
-We check beforehand whether it complies with the speaker guidelines.
-Please be sure to submit it by the specified deadline.
-
-Video format:
-- Aspect ratio: 16:9
-- File format: .mp4 or .mov
-- Resolution: 1920x1080p
-- Frame rate: 30fps
-- File size: Up to 1GB  (Please reduce the file size by compression or converting to a lower resolution as possible and necessary if the file is larger than 1GB)
-
-**Please do not include copyrighted material of others that infringes on your content.**
-**Even in the case of other people's content that is allowed to be used free of charge, the applicant must ensure that it is used in accordance with the terms of the license.**
-**In the incident of any copyright infringement issues, the applicant will take full responsibility.**
 
 # Restriction of advertising in the session
 
