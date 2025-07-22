@@ -16,7 +16,7 @@ JJUG幹事会は，JJUG CCCにおいて，この規範を実施します。
 
 JJUG幹事会スタッフには次の方法で連絡できます。
 * メール: jjug.ccc@gmail.com
-* 公開Webフォーム: https://forms.gle/XtFQiZbBwmKeS7h39
+* 公開Webフォーム: https://forms.gle/VwubiUvZArLiMtEi9
 
 JJUG幹事会は，ハラスメントにあった方が，イベント中に安全かつ安心と感じられるように，次のような対応を行います。
 * 警察に連絡する
