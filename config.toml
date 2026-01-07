@@ -64,15 +64,26 @@ metaDataFormat = "yaml"
   weight = 5
 
 [[menu.main]]
-  parent = "about"
-  name = "スピーカー派遣について"
+  identifier = "community-support"
+  name = "コミュニティ支援"
+  weight = 3
+
+[[menu.main]]
+  parent = "community-support"
+  name = "スピーカー派遣"
   url = "page/speaker-dispatch/"
-  weight = 6
+  weight = 1
+
+[[menu.main]]
+  parent = "community-support"
+  name = "告知支援"
+  url = "page/announcement-support/"
+  weight = 2
 
 [[menu.main]]
   identifier = "CCC"
   name = "JJUG CCC"
-  weight = 3
+  weight = 4
 
 [[menu.main]]
   parent = "CCC"
@@ -95,4 +106,4 @@ metaDataFormat = "yaml"
 [[menu.main]]
   name = "Tags"
   url = "tags/"
-  weight = 4
+  weight = 5
