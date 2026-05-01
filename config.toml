@@ -17,7 +17,7 @@ metaDataFormat = "yaml"
   useHLJS = true
   toolSponsorName = "Backlog"
   toolSponsorUrl = "https://backlog.com/"
-  toolSponsorLogo = "/img/Backlog_logo.png"
+  toolSponsorLogo = "img/Backlog_logo.png"
 
 [Author]
   name = "Japan Java User Group"
