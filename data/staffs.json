@@ -133,7 +133,13 @@
         {
             "name": "柴田 洋平 (Youhei Shibata)",
             "image": "img/yangping0211.jpg",
-            "link": "https://twitter.com/yangping0211"
+            "link": "https://twitter.com/yangping0211",
+            "companies": [
+                {
+                    "name": "ULSコンサルティング株式会社 (ULS Consulting, Inc.)",
+                    "link": "https://www.ulsconsulting.co.jp/"
+                }
+            ]
         },
         {
             "name": "杉山 貴章 (Takaaki Sugiyama)",
